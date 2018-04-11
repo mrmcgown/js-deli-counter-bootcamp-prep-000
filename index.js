@@ -16,7 +16,7 @@
  
 function currentLine (katzDeliLine) {
   if (katzDeliLine.length === 0) {
-    return "blahblah"
+    return "The line is currently empty."
   } else {
     return "lahlah"
   }
